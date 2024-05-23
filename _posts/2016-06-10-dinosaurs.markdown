@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Dinosaurs are extinct today"
+title:      "El nuevo sistema eliminador de olores"
 subtitle:   "because they lacked opposable thumbs and the brainpower to build a space program."
 date:       2016-06-10 12:00:00
-author:     "Antonio Trento"
+author:     "HtClockwise"
 header-img: "img/post-bg-01.jpg"
 categories: jekyll
 ---
