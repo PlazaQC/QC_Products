@@ -1,5 +1,5 @@
 # Site settings
-title: Antonio Trento, theme Jeky New Age, the start Bootstrap themplate build for jekyll
+title: QC Products
 email:
 description: A jekyll template for landing pages, portfolio and blogging
 
@@ -18,11 +18,11 @@ disqus_account:
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
 social:
   - title: twitter
-    url: https://twitter.com/lantoniotrento
+    url: https://twitter.com
   - title: facebook
-    url: https://facebook.com/lantoniotrento
-  - title: google-plus
-    url: https://plus.google.com/+AntoniotrentoIt
+    url: https://facebook.com
+  - title: Linkedin
+    url: https://linkedin.com
   #- title: github
   #  url: http://github.com/jekyll
 
