@@ -1,7 +1,7 @@
 # Site settings
 title: QC Products
 email:
-description: A jekyll template for landing pages, portfolio and blogging
+description: Productos QC - POWAIR
 
 baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://jekynewage.github.io" # the base hostname & protocol for your site
